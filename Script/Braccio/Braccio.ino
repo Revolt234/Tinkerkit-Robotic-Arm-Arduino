@@ -20,7 +20,7 @@ char ssid[] = "WiFi-LabIoT";  // il tuo network SSID (nome)
 char pass[] = "s1jzsjkw5b";   // la tua password di rete
 
 // Indirizzo IP e porta del server MQTT
-const char* mqtt_server = "192.168.1.121";
+const char* mqtt_server = "192.168.1.21";
 
 WiFiClient espClient;
 PubSubClient client(espClient);

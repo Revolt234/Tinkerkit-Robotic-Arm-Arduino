@@ -9,7 +9,7 @@ char ssid[] = "WiFi-LabIoT";  // il tuo network SSID (nome)
 char pass[] = "s1jzsjkw5b";   // la tua password di rete
 
 // Indirizzo IP e porta del server MQTT
-const char* mqtt_server = "192.168.1.121";
+const char* mqtt_server = "192.168.1.21";
 
 // Definisci i pin per il joystick e i pulsanti
 const int joystickPinX = A0;

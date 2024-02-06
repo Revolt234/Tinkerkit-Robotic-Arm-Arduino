@@ -3,4 +3,4 @@ Sono stati utilizzati: Arduino WiFi, Joystick Shield, ESP32, Tinkerkit robotic a
 
 Video dimostrativo del progetto svolto:
 
-[![Watch the video](https://youtu.be/SsF9PYF7wmU?si=mi13qGpdg2bXiItm)
+[![Watch the video](https://youtu.be/SsF9PYF7wmU.jpg)](https://youtu.be/SsF9PYF7wmU?si=mi13qGpdg2bXiItm)
